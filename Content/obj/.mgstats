@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/enger/Desktop/Projets/first-game/Content/chemin.png","C:/Users/enger/Desktop/Projets/first-game/Content/bin/chemin.xnb","TextureProcessor","Texture2DContent",4188,10085,0,1282549
+"C:/Users/enger/Desktop/Projets/first-game/Content/GameFont.spritefont","C:/Users/enger/Desktop/Projets/first-game/Content/bin/GameFont.xnb","FontDescriptionProcessor","SpriteFontContent",669,43852,0,1068913
+"C:/Users/enger/Desktop/Projets/first-game/Content/mur.png","C:/Users/enger/Desktop/Projets/first-game/Content/bin/mur.xnb","TextureProcessor","Texture2DContent",1244,10085,0,0037827

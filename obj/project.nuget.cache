@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bw4ITYhL1GYk1L/sp6IsaWztil/Ax0TH9/3jgqBluq1CstBOKaCCxKcmIf3+fMcGpYZtyEDWf33Xa3naBOXzHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\enger\\Desktop\\Projets\\first-game\\first-game-MonoGame\\first-game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\enger\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\enger\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\enger\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\enger\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\enger\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\enger\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\enger\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
